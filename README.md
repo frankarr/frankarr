@@ -2,7 +2,7 @@
 
 **Technologist. Builder. Australian software ecosystem advocate.**
 
-I spent 30+ years at the intersection of software, people, and ideas — from mainframes at Aspect Computing to developer evangelism at Microsoft, startup mentoring at muru-D, and leading solution architecture teams at AWS. Currently on a career break, writing, building, and figuring out what's next.
+I spent 40+ years at the intersection of software, people, and ideas — from mainframes at Aspect Computing to developer evangelism at Microsoft, startup mentoring at muru-D, and leading solution architecture teams at AWS. Currently on a career break, writing, building, and figuring out what's next.
 
 ---
 
