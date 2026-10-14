@@ -18,9 +18,9 @@ I spent 40+ years at the intersection of software, people, and ideas — from ma
 
 | Period | Where |
 |--------|--------|
-| 2018–2024 | **Amazon Web Services** — SA Manager ANZ, Head of SAs WASA (acting), Head of SAs Territory,Inaugural Head of APJ CSC SA, Head of Early Career SAs, APJ|
+| 2018–2024 | **Amazon Web Services** — SA Manager ANZ, Head of SAs WASA (acting), Head of SAs Territory ANZ, Head of APJ CSC SA, Head of Early Career SAs, APJ|
 | 2014–2018 | **Telstra** — API Strategy, CTOi Innovation Team, muru-D mentor |
-| 1991–2014 | **Microsoft** — Australia, Redmond WA, ninemsn, Windows Digital Media APAC, Technical Evangelism Canberra, Seattle, Sydney, Seattle Melbourne|
+| 1991–2014 | **Microsoft** — Australia, Redmond WA, ninemsn, Windows Digital Media APAC, Technical Evangelism Sydney, Seattle Melbourne|
 | 1984–1991 | **Aspect Computing** — Mainframe, Mini, PC era |
 
 ---
