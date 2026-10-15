@@ -8,7 +8,7 @@ I spent 40+ years at the intersection of software, people, and ideas — from ma
 
 ## 🧰 What I've Built & Worked On
 
-- **[SmallBizAI.au](https://smallbizai.au)** — AI adoption guide for Australian small businesses. 1,500+ posts, fully automated publishing pipeline, AI agent team. 🦞🐶🦅🦉🦫🐶🌴
+- **[SmallBizAI.au](https://smallbizai.au)** — AI adoption guide for Australian small businesses. 1,500+ posts, fully automated publishing pipeline, AI agent team. 🦞🐶🦅🦉🦫🐶
 - **[mathmaties](https://github.com/frankarr/mathmaties)** — iOS & Android app for kids learning maths with NFC-tagged physical number tokens
 - **[devevangelist](https://github.com/frankarr/devevangelist)** — Resources from my developer evangelism days
 
