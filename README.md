@@ -32,6 +32,8 @@ I spent 40+ years at the intersection of software, people, and ideas — from ma
 [![Twitter/X](https://img.shields.io/badge/X-@frankarr-000000?style=flat-square&logo=x)](https://x.com/frankarr)
 [![Bluesky](https://img.shields.io/badge/Bluesky-frankarr-0285FF?style=flat-square)](https://bsky.app/profile/frankarr.bsky.social)
 [![SmallBizAI](https://img.shields.io/badge/SmallBizAI.au-AI%20for%20Aussie%20Business-green?style=flat-square)](https://smallbizai.au)
+[![Linktree](https://img.shields.io/badge/Linktree-frankarr-39E09B?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/frankarr)
+[![Bio](https://img.shields.io/badge/Bio-frankarr.link-orange?style=flat-square)](https://frankarr.link)
 
 ---
 
