@@ -36,6 +36,7 @@ I spent 40+ years at the intersection of software, people, and ideas — from ma
 [![Linktree](https://img.shields.io/badge/Linktree-frankarr-39E09B?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/frankarr)
 [![Bio](https://img.shields.io/badge/Bio-frankarr.link-orange?style=flat-square)](https://frankarr.link)
 
+
 ---
 
 ## 📊 GitHub Activity
