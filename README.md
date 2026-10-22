@@ -9,7 +9,7 @@ I spent 40+ years at the intersection of software, people, and ideas — from ma
 ## 🧰 What I've Built & Worked On
 
 - **[SmallBizAI.au](https://smallbizai.au)** — AI adoption guide for Australian small businesses. 1,500+ posts, fully automated publishing pipeline, AI agent team. 🦞
-- **[PickUp](https://receptionists.smallbizai.au)** —  AI receptionists sold to AU and UK small businesses, compared on real published prices and  independent mystery-call tests
+- **[PickUp](https://receptionists.smallbizai.au)** — AI receptionists sold to AU and UK small businesses, compared on real published prices and independent mystery-call tests
 - **[mathmaties](https://github.com/frankarr/mathmaties)** — iOS & Android app for kids learning maths with NFC-tagged physical number tokens
 - **[devevangelist](https://github.com/frankarr/devevangelist)** — Resources from my developer evangelism days
 
@@ -36,6 +36,20 @@ I spent 40+ years at the intersection of software, people, and ideas — from ma
 [![Linktree](https://img.shields.io/badge/Linktree-frankarr-39E09B?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/frankarr)
 [![Bio](https://img.shields.io/badge/Bio-frankarr.link-orange?style=flat-square)](https://frankarr.link)
 
+---
+
+## 🤝 Currently Interested In
+
+I'm relocating to **London in November 2026** and actively exploring senior roles in:
+
+- **Developer Relations / Technical Evangelism** — my deepest craft; done it at scale at Microsoft and AWS
+- **Solutions Engineering / Architecture** — led SA teams across ANZ and APJ at AWS
+- **AI Product & Strategy** — built and shipped AI-native products; currently running a multi-agent publishing operation
+- **Technical Leadership** — built and grown high-performing technical teams across APAC
+
+Open to: enterprise SaaS, AI infrastructure, developer tools, cloud platforms.
+
+📍 Based in London from November 2026 — open to UK, European, and remote-global roles.
 
 ---
 
@@ -48,3 +62,4 @@ I spent 40+ years at the intersection of software, people, and ideas — from ma
 ---
 
 *Dad. Husband. 😇St Kilda FC member for 40+ years (blindly optimistic). Data's grandpappy 🐕 Soon 🇦🇺✈️🇬🇧*
+
