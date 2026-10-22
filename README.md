@@ -47,4 +47,4 @@ I spent 40+ years at the intersection of software, people, and ideas — from ma
 
 ---
 
-*Dad. Husband. St Kilda FC member for 40+ years (blindly optimistic). Data's grandpappy 🐕 Heading to UK ✈️*
+*Dad. Husband. 😇St Kilda FC member for 40+ years (blindly optimistic). Data's grandpappy 🐕 Soon 🇦🇺✈️🇬🇧*
