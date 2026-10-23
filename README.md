@@ -10,19 +10,20 @@ I spent 40+ years at the intersection of software, people, and ideas — from ma
 
 ## 🎯 What I'm Looking For
 
-- **Developer Relations / Technical Evangelism** — my deepest craft; done it at scale at Microsoft and AWS
+- **Developer Relations / Technical Evangelism** — my deepest craft, done at scale at Microsoft and AWS
 - **Solutions Engineering / Architecture** — led SA teams across ANZ and APJ at AWS
-- **AI Product & Strategy** — built and shipped AI-native products; currently running a multi-agent publishing operation
 - **Technical Leadership** — built and grown high-performing technical teams across APAC
 
 Open to: enterprise SaaS, AI infrastructure, developer tools, cloud platforms.
+
+> I'm currently running a fully automated, multi-agent AI publishing operation — 1,628 articles, a 6-agent team, and a live content pipeline. That's AI Product & Strategy in practice, not on a slide.
 
 ---
 
 ## 🧰 What I've Built & Worked On
 
-- **[SmallBizAI.au](https://smallbizai.au)** — AI adoption guide for Australian small businesses. 1,500+ posts, fully automated publishing pipeline, AI agent team. 🦞
-- **[PickUp](https://receptionists.smallbizai.au)** — AI receptionists sold to AU and UK small businesses, compared on real published prices and independent mystery-call tests
+- **[SmallBizAI.au](https://smallbizai.au)** — AI adoption guide for Australian small businesses. 1,628 posts, fully automated publishing pipeline, AI agent team. 🦞
+- **[PickUp](https://receptionists.smallbizai.au)** — Comparing AI receptionists for AU and UK small businesses — independent mystery-call tests, real published prices, no vendor relationships
 - **[mathmaties](https://github.com/frankarr/mathmaties)** — iOS & Android app for kids learning maths with NFC-tagged physical number tokens
 - **[devevangelist](https://github.com/frankarr/devevangelist)** — Resources from my developer evangelism days
 
@@ -44,7 +45,7 @@ Open to: enterprise SaaS, AI infrastructure, developer tools, cloud platforms.
 <!-- BLOG-POST-LIST:START -->
 - [Seven attempts, zero deliveries: my week with Dragonfly Shipping](https://frankarr.com/2026/10/22/seven-attempts-zero-deliveries-my-week-with-dragonfly-shipping/)
 - [Hello Cloudflare!](https://frankarr.com/2026/10/22/hello-cloudflare/)
-- [The Agents I’m Using Right Now &lpar;Part 1: Setup &amp; Early Results&rpar;](https://frankarr.com/2026/10/12/the-agents-im-using-right-now-part-1-setup-early-results/)
+- [The Agents I'm Using Right Now &lpar;Part 1: Setup &amp; Early Results&rpar;](https://frankarr.com/2026/10/12/the-agents-im-using-right-now-part-1-setup-early-results/)
 - [The September Performance Review: How Did My AI Team Actually Do?](https://frankarr.com/2026/10/01/the-september-performance-review-how-did-my-ai-team-actually-do/)
 - [Twenty Years on X &lpar;Formerly Twitter&rpar;: What 35,000 Tweets Actually Look Like](https://frankarr.com/2026/09/28/twenty-years-on-x-formerly-twitter-what-35000-tweets-actually-look-like/)
 <!-- BLOG-POST-LIST:END -->
