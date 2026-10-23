@@ -61,5 +61,5 @@ Open to: enterprise SaaS, AI infrastructure, developer tools, cloud platforms.
 
 ---
 
-*Dad. Husband. 😇St Kilda FC member for 40+ years (blindly optimistic). Data's grandpappy 🐕 Soon 🇦🇺✈️🇬🇧*
+*Dad. Husband. 😇 StKilda FC member for 40+ years (blindly optimistic). Data's grandpappy 🐕 Soon 🇦🇺✈️🇬🇧*
 
