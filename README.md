@@ -2,7 +2,20 @@
 
 **Technologist. Builder. Australian software ecosystem advocate.**
 
-I spent 40+ years at the intersection of software, people, and ideas — from mainframes at Aspect Computing to developer evangelism at Microsoft, startup mentoring at muru-D, and leading solution architecture teams at AWS. Currently on a career break, writing, building, and figuring out what's next.
+🚀 Relocating to **London in November 2026** and actively exploring senior roles in Developer Relations, Solutions Engineering, AI Product & Strategy, and Technical Leadership - open to UK, European, and remote-global roles. Best way to reach me: **[frankarr.link](https://frankarr.link)**.
+
+I spent 40+ years at the intersection of software, people, and ideas — from mainframes at Aspect Computing to developer evangelism at Microsoft, startup mentoring at muru-D, and leading solution architecture teams at AWS.
+
+---
+
+## 🎯 What I'm Looking For
+
+- **Developer Relations / Technical Evangelism** — my deepest craft; done it at scale at Microsoft and AWS
+- **Solutions Engineering / Architecture** — led SA teams across ANZ and APJ at AWS
+- **AI Product & Strategy** — built and shipped AI-native products; currently running a multi-agent publishing operation
+- **Technical Leadership** — built and grown high-performing technical teams across APAC
+
+Open to: enterprise SaaS, AI infrastructure, developer tools, cloud platforms.
 
 ---
 
@@ -26,6 +39,23 @@ I spent 40+ years at the intersection of software, people, and ideas — from ma
 
 ---
 
+## ✍️ Latest posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Seven attempts, zero deliveries: my week with Dragonfly Shipping](https://frankarr.com/2026/10/22/seven-attempts-zero-deliveries-my-week-with-dragonfly-shipping/)
+- [Hello Cloudflare!](https://frankarr.com/2026/10/22/hello-cloudflare/)
+- [The Agents I'm Using Right Now (Part 1: Setup & Early Results)](https://frankarr.com/2026/10/12/the-agents-im-using-right-now-part-1-setup-early-results/)
+- [The September Performance Review: How Did My AI Team Actually Do?](https://frankarr.com/2026/10/01/the-september-performance-review-how-did-my-ai-team-actually-do/)
+- [Twenty Years on X (Formerly Twitter): What 35,000 Tweets Actually Look Like](https://frankarr.com/2026/09/28/twenty-years-on-x-formerly-twitter-what-35000-tweets-actually-look-like/)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](profile/stats.svg)
+
+
 ## 🌏 Find Me
 
 [![Blog](https://img.shields.io/badge/Blog-frankarr.com-blue?style=flat-square)](https://frankarr.com)
@@ -33,33 +63,8 @@ I spent 40+ years at the intersection of software, people, and ideas — from ma
 [![Twitter/X](https://img.shields.io/badge/X-@frankarr-000000?style=flat-square&logo=x)](https://x.com/frankarr)
 [![Bluesky](https://img.shields.io/badge/Bluesky-frankarr-0285FF?style=flat-square)](https://bsky.app/profile/frankarr.bsky.social)
 [![SmallBizAI](https://img.shields.io/badge/SmallBizAI.au-AI%20for%20Aussie%20Business-green?style=flat-square)](https://smallbizai.au)
-[![Linktree](https://img.shields.io/badge/Linktree-frankarr-39E09B?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/frankarr)
 [![Bio](https://img.shields.io/badge/Bio-frankarr.link-orange?style=flat-square)](https://frankarr.link)
 
 ---
 
-## 🤝 Currently Interested In
-
-I'm relocating to **London in November 2026** and actively exploring senior roles in:
-
-- **Developer Relations / Technical Evangelism** — my deepest craft; done it at scale at Microsoft and AWS
-- **Solutions Engineering / Architecture** — led SA teams across ANZ and APJ at AWS
-- **AI Product & Strategy** — built and shipped AI-native products; currently running a multi-agent publishing operation
-- **Technical Leadership** — built and grown high-performing technical teams across APAC
-
-Open to: enterprise SaaS, AI infrastructure, developer tools, cloud platforms.
-
-📍 Based in London from November 2026 — open to UK, European, and remote-global roles.
-
----
-
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frankarr&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=frankarr&theme=default&hide_border=true)
-
----
-
-*Dad. Husband. 😇 StKilda FC member for 40+ years (blindly optimistic). Data's grandpappy 🐕 Soon 🇦🇺✈️🇬🇧*
-
+*Dad. Husband. 😇 St Kilda FC member for 40+ years (blindly optimistic). Data's grandpappy 🐕 Soon 🇦🇺✈️🇬🇧*
