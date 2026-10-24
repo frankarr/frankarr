@@ -68,4 +68,4 @@ Open to: leading & developing high-performing teams, enterprise SaaS, AI infrast
 
 ---
 
-*Dad. Husband. 😇 St Kilda FC member for 40+ years (blindly optimistic). Data's grandpappy 🐕 Soon 🇦🇺✈️🇬🇧*
+*Dad. Husband. 😇 St Kilda FC member for 40+ years (blindly optimistic). Data's grandpappy 🐕 Soon 🇦🇺🛫🛬🇬🇧*
