@@ -22,7 +22,7 @@ Open to: leading & developing high-performing teams, enterprise SaaS, AI infrast
 
 ## 🧰 What I've Built & Worked On
 
-- **[SmallBizAI.au](https://smallbizai.au)** — AI adoption guide for Australian small businesses. 1,628 posts, fully automated publishing pipeline, AI agent team. 🦞
+- **[SmallBizAI.au](https://smallbizai.au)** — AI adoption guide for Australian small businesses. 1,628 posts, fully automated publishing pipeline, AI agent team.
 - **[PickUp](https://receptionists.smallbizai.au)** — Comparing AI receptionists for AU and UK small businesses — independent mystery-call tests, real published prices, no vendor relationships
 - **[mathmaties](https://github.com/frankarr/mathmaties)** — iOS & Android app for kids learning maths with NFC-tagged physical number tokens
 - **[devevangelist](https://github.com/frankarr/devevangelist)** — Resources from my developer evangelism days
