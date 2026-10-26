@@ -2,7 +2,7 @@
 
 **Technologist. Builder. Australian software ecosystem advocate.**
 
-🚀 Relocating to **London in November 2026** and actively exploring senior roles in Developer Relations, Solutions Engineering, AI Product & Strategy, and Technical Leadership - open to UK, European, and remote-global roles. Best way to reach me: **[frankarr.link](https://frankarr.link)**.
+🚀 Relocating to **London in November 2026**  actively exploring senior roles in Developer Relations, Solutions Engineering, AI Product & Strategy, and Technical Leadership - open to UK, European, and remote-global roles. Best way to reach me: **[frankarr.link](https://frankarr.link)**.
 
 I spent 40+ years at the intersection of software, people, and ideas — from mainframes at Aspect Computing to developer evangelism at Microsoft, startup mentoring at muru-D, and leading solution architecture teams at AWS.
 
