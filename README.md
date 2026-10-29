@@ -16,7 +16,7 @@ I spent 40+ years at the intersection of software, people, and ideas — from ma
 
 Open to: leading & developing high-performing teams, enterprise SaaS, AI infrastructure, developer tools, cloud platforms.
 
-> I'm currently running a fully automated, multi-agent AI publishing operation — 1,628 articles, a 6-agent team, and a live content pipeline. That's AI Product & Strategy in practice, not on a slide.
+> I'm currently running a fully automated, multi-agent AI publishing operation — 1,600+ articles, a 6-agent team, and a live content pipeline. That's AI Product & Strategy in practice, not on a slide.
 
 ---
 
