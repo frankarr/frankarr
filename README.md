@@ -26,7 +26,7 @@ Open to: leading & developing high-performing teams, enterprise SaaS, AI infrast
 - **[PickUp](https://receptionists.smallbizai.au)** — Comparing AI receptionists for AU and UK small businesses — independent mystery-call tests, real published prices, no vendor relationships
 - **[mathmaties](https://github.com/frankarr/mathmaties)** — iOS & Android app for kids learning maths with NFC-tagged physical number tokens
 - **[devevangelist](https://github.com/frankarr/devevangelist)** — Resources from my developer evangelism days
-- **[frankarr-wiki](https://github.com/frankarr/frankarr-wiki)** — Personal wiki built on Cloudflare Pages
+- **[frankarr-wiki](https://github.com/frankarr/frankarr-wiki)** — Old blog pages hosted on Cloudflare Pages
 
 ---
 
