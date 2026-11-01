@@ -23,8 +23,8 @@ Open to: leading & developing high-performing teams, enterprise SaaS, AI infrast
 ## 🧰 What I've Built & Worked On
 
 - **[SmallBizAI.au](https://smallbizai.au)** — AI adoption guide for Australian small businesses. 1,600+ posts, fully automated publishing pipeline, AI agent team.
-- **[PickUp](https://receptionists.smallbizai.au)** — Comparing AI receptionists for AU and UK small businesses — independent mystery-call tests, real published prices, no vendor relationships
-- **[Reviews](https://reviews.smallbizai.au)** — Independent AU/UK tracker of review-request tools for tradies (sister site to Pickup and SmallBizAI.au)
+- **[Pickup](https://receptionists.smallbizai.au)**: Independent comparison of AI receptionists for Australian and UK small businesses. Soft-launched October 2026; sister site to SmallBizAI.au.
+- **[Fair Stars](https://reviews.smallbizai.au)**: Independent tracker of review-request tools for Australian and UK tradies. In development (draft preview, not yet launched).
 - **[mathmaties](https://github.com/frankarr/mathmaties)** — iOS & Android app for kids learning maths with NFC-tagged physical number tokens
 - **[devevangelist](https://github.com/frankarr/devevangelist)** — Resources from my developer evangelism days
 - **[frankarr-wiki](https://github.com/frankarr/frankarr-wiki)** — Historical blog pages hosted on Cloudflare Pages
