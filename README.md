@@ -45,11 +45,11 @@ Open to: leading & developing high-performing teams, enterprise SaaS, AI infrast
 ## ✍️ Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I asked a side hustle bot to build me a business.](https://frankarr.com/2026/11/02/i-asked-a-side-hustle-bot-to-build-me-a-business/)
 - [Seven attempts, zero deliveries: my week with Dragonfly Shipping](https://frankarr.com/2026/10/22/seven-attempts-zero-deliveries-my-week-with-dragonfly-shipping/)
 - [Hello Cloudflare!](https://frankarr.com/2026/10/22/hello-cloudflare/)
 - [The Agents I’m Using Right Now &lpar;Part 1: Setup &amp; Early Results&rpar;](https://frankarr.com/2026/10/12/the-agents-im-using-right-now-part-1-setup-early-results/)
 - [The September Performance Review: How Did My AI Team Actually Do?](https://frankarr.com/2026/10/01/the-september-performance-review-how-did-my-ai-team-actually-do/)
-- [Twenty Years on X &lpar;Formerly Twitter&rpar;: What 35,000 Tweets Actually Look Like](https://frankarr.com/2026/09/28/twenty-years-on-x-formerly-twitter-what-35000-tweets-actually-look-like/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
