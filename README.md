@@ -60,6 +60,8 @@ Open to: leading & developing high-performing teams, enterprise SaaS, AI infrast
 
 ![GitHub Stats](profile/stats.svg)
 
+![GitHub Stats Card](https://ghstats.dev/api/card?username=Frankarr&hide_border=true&custom_title=Frankarr)
+
 
 ## 🌏 Find Me
 
