@@ -1,4 +1,4 @@
-# Hi, I'm Frank Arrigo ðŸ‘‹
+# Hi, I'm Frank Arrigo 👋
 
 **40 years in tech. Still building.**
 
@@ -12,60 +12,60 @@ Now relocating to London (November 2026) and actively exploring senior roles: De
 
 ---
 
-## ðŸŽ¯ What I'm Looking For
+## 🎯 What I'm Looking For
 
-- **Developer Relations / Technical Evangelism** â€” my deepest craft, done at scale at Microsoft and AWS
-- **Solutions Engineering / Architecture** â€” led SA teams across ANZ and APJ at AWS
-- **Technical Leadership** â€” built and grown high-performing technical teams across APAC
+- **Developer Relations / Technical Evangelism** — my deepest craft, done at scale at Microsoft and AWS
+- **Solutions Engineering / Architecture** — led SA teams across ANZ and APJ at AWS
+- **Technical Leadership** — built and grown high-performing technical teams across APAC
 
 Open to: leading & developing high-performing teams, enterprise SaaS, AI infrastructure, developer tools, cloud platforms.
 
-> I'm currently running a fully automated, multi-agent AI publishing operation â€” 1,600+ articles, a 6-agent team, and a live content pipeline. That's AI Product & Strategy in practice, not on a slide.
+> I'm currently running a fully automated, multi-agent AI publishing operation — 1,600+ articles, a 6-agent team, and a live content pipeline. That's AI Product & Strategy in practice, not on a slide.
 
 ---
 
-## ðŸ§° What I've Built & Worked On
+## 🧰 What I've Built & Worked On
 
-- **[SmallBizAI.au](https://smallbizai.au)** â€” AI adoption guide for Australian small businesses. 1,600+ posts, fully automated publishing pipeline, AI agent team.
+- **[SmallBizAI.au](https://smallbizai.au)** — AI adoption guide for Australian small businesses. 1,600+ posts, fully automated publishing pipeline, AI agent team.
 - **[Pickup](https://receptionists.smallbizai.au)**: Independent comparison of AI receptionists for Australian and UK small businesses. Soft-launched October 2026; sister site to SmallBizAI.au.
 - **[Fair Stars](https://reviews.smallbizai.au)**: Independent tracker of review-request tools for Australian and UK tradies. In development (draft preview, not yet launched).
-- **[mathmaties](https://github.com/frankarr/mathmaties)** â€” iOS & Android app for kids learning maths with NFC-tagged physical number tokens
-- **[devevangelist](https://github.com/frankarr/devevangelist)** â€” Resources from my developer evangelism days
-- **[frankarr-wiki](https://github.com/frankarr/frankarr-wiki)** â€” Historical blog pages hosted on Cloudflare Pages
+- **[mathmaties](https://github.com/frankarr/mathmaties)** — iOS & Android app for kids learning maths with NFC-tagged physical number tokens
+- **[devevangelist](https://github.com/frankarr/devevangelist)** — Resources from my developer evangelism days
+- **[frankarr-wiki](https://github.com/frankarr/frankarr-wiki)** — Historical blog pages hosted on Cloudflare Pages
 
 ---
 
-## ðŸ¢ Career
+## 🚀 Career
 
 | Period | Where |
 |--------|--------|
-| 2018â€“2024 | **Amazon Web Services** â€” SA Manager ANZ, Head of SAs Territory ANZ, Head of CSC SA APH…†HeGdof Early Career SAs APJ |
-| 2014â€“2018 | **Telstra** â€” API Strategy, CTOi Innovation Team, muru-D mentor |
-| 1991â€“2014 | **Microsoft** â€” Australia, Redmond WA, ninemsn, Windows Digital Media APAC, Technical Evangelism Sydney, Seattle, Melbourne |
-| 1984â€“1991 | **Aspect Computing** â€” Mainframe, Mini, PC era |
+| 2018–2024 | **Amazon Web Services** — SA Manager ANZ, Head of SAs Territory ANZ, Head of CSC SA APJ, Head of Early Career SAs APJ |
+| 2014–2018 | **Telstra** — API Strategy, CTOi Innovation Team, muru-D mentor |
+| 1991–2014 | **Microsoft** — Australia, Redmond WA, ninemsn, Windows Digital Media APAC, Technical Evangelism Sydney, Seattle, Melbourne |
+| 1984–1991 | **Aspect Computing** — Mainframe, Mini, PC era |
 
 ---
 
-## âœï¸ Latest posts
+## ✔️ Latest posts
 
 <!-- BLOG-POST-LIST:START -->
 - [I asked a side hustle bot to build me a business.](https://frankarr.com/2026/11/02/i-asked-a-side-hustle-bot-to-build-me-a-business/)
 - [Seven attempts, zero deliveries: my week with Dragonfly Shipping](https://frankarr.com/2026/10/22/seven-attempts-zero-deliveries-my-week-with-dragonfly-shipping/)
 - [Hello Cloudflare!](https://frankarr.com/2026/10/22/hello-cloudflare/)
-- [The Agents Iâ€™m Using Right Now &lpar;Part 1: Setup &amp; Early Results&rpar;](https://frankarr.com/2026/10/12/the-agents-im-using-right-now-part-1-setup-early-results/)
+- [The Agents I’m Using Right Now &lpar;Part 1: Setup &amp; Early Results&rpar;](https://frankarr.com/2026/10/12/the-agents-im-using-right-now-part-1-setup-early-results/)
 - [The September Performance Review: How Did My AI Team Actually Do?](https://frankarr.com/2026/10/01/the-september-performance-review-how-did-my-ai-team-actually-do/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-## ðŸ“Š GitHub Stats
+## 📊 GitHub Stats
 
 ![GitHub Stats](profile/stats.svg)
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=Frankarr&theme=light&hide_border=true&custom_title=Extended+GitHub+Stats)
 
 
-## ðŸŒ Find Me
+## 🔏 Find Me
 
 [![Blog](https://img.shields.io/badge/Blog-frankarr.com-blue?style=flat-square)](https://frankarr.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-frankarr-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/frankarr)
@@ -76,5 +76,5 @@ Open to: leading & developing high-performing teams, enterprise SaaS, AI infrast
 
 ---
 
-*Dad. Husband. ðŸ˜‡ St Kilda FC member for 40+ years (blindly optimistic). Data's grandpappy ðŸ• Soon ðŸ‡¦ðŸ‡ºðŸ›«ðŸ›¬ðŸ‡¬ðŸ‡§*
+*Dad. Husband. 😀 St Kilda FC member for 40+ years (blindly optimistic). Data's grandpappy 🐕 Soon 🇦🇺🇬🇧*
 
