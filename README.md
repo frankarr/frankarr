@@ -64,7 +64,6 @@ Open to: leading & developing high-performing teams, enterprise SaaS, AI infrast
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=Frankarr&theme=light&hide_border=true&custom_title=Extended+GitHub+Stats)
 
-
 ## 🔏 Find Me
 
 [![Blog](https://img.shields.io/badge/Blog-frankarr.com-blue?style=flat-square)](https://frankarr.com)
