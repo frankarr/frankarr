@@ -1,12 +1,14 @@
 # Hi, I'm Frank Arrigo 👋
 
-**Technologist. Builder. Australian software ecosystem advocate.**
+**40 years in tech. Still building.**
 
-🚀 Relocating to **London in November 2026**  
+From mainframes at Aspect Computing to developer evangelism at Microsoft, API strategy and developer relations at Telstra, startup mentoring at muru-D, and leading solution architecture teams at AWS - I've spent my career at the intersection of software, people, and ideas.
 
-Actively exploring senior roles in Developer Relations, Solutions Engineering, AI Product & Strategy, and Technical Leadership - open to UK, European, and remote-global roles. Best way to reach me: **[frankarr.link](https://frankarr.link)**.
+Most recently: building [SmallBizAI.au](https://smallbizai.au) and working hands-on with AI agents, automation pipelines, and the practical realities of AI for small business - because the best way to understand a platform shift is to build on it.
 
-I have spent 40+ years at the intersection of software, people, and ideas — from mainframes at Aspect Computing to developer evangelism at Microsoft, startup mentoring at muru-D, and leading solution architecture teams at AWS.
+Now relocating to London (November 2026) and actively exploring senior roles: Developer Relations, Solutions Engineering, AI Product & Strategy, Technical Leadership. UK, Europe, remote-global.
+
+👋 **[frankarr.link](https://frankarr.link)**
 
 ---
 
@@ -37,7 +39,7 @@ Open to: leading & developing high-performing teams, enterprise SaaS, AI infrast
 
 | Period | Where |
 |--------|--------|
-| 2018–2024 | **Amazon Web Services** — SA Manager ANZ, Head of SAs Territory ANZ, Head of CSC SA APJ, Head of Early Career SAs APJ |
+| 2018–2024 | **Amazon Web Services** — SA Manager ANZ, Head of SAs Territory ANZ, Head of CSC SA APH��HeGdof Early Career SAs APJ |
 | 2014–2018 | **Telstra** — API Strategy, CTOi Innovation Team, muru-D mentor |
 | 1991–2014 | **Microsoft** — Australia, Redmond WA, ninemsn, Windows Digital Media APAC, Technical Evangelism Sydney, Seattle, Melbourne |
 | 1984–1991 | **Aspect Computing** — Mainframe, Mini, PC era |
