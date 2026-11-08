@@ -1,6 +1,6 @@
 # Hi, I'm Frank Arrigo 👋
 
-**40 years in tech. Still building.**
+**40+ years in tech. Still building.**
 
 From mainframes at Aspect Computing to developer evangelism at Microsoft, API strategy and developer relations at Telstra, startup mentoring at muru-D, and leading solution architecture teams at AWS - I've spent my career at the intersection of software, people, and ideas.
 
