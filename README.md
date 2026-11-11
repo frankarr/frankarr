@@ -6,7 +6,7 @@ From mainframes at Aspect Computing to developer evangelism at Microsoft, API st
 
 Most recently: building [SmallBizAI.au](https://smallbizai.au) and working hands-on with AI agents, automation pipelines, and the practical realities of AI for small business - because the best way to understand a platform shift is to build on it.
 
-Now relocating to London (November 2026) and actively exploring senior roles: Developer Relations, Solutions Engineering, AI Product & Strategy, Technical Leadership. UK, Europe, remote-global.
+Relocating to London (November 2026) and actively exploring senior roles: Developer Relations, Solutions Engineering, AI Product & Strategy, Technical Leadership. UK, Europe, remote-global.
 
 🇬🇧 **[frankarr.link](https://frankarr.link)**
 
