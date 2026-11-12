@@ -16,7 +16,7 @@ Relocating to London (November 2026) and actively exploring senior roles: Develo
 
 - **Developer Relations / Technical Evangelism** — my deepest craft, done at scale at Microsoft and AWS
 - **Solutions Engineering / Architecture** — led SA teams across ANZ and APJ at AWS
-- **Technical Leadership** — built and grown high-performing technical teams across APAC
+- **Technical Leadership** — built and grown high-performing technical teams across APJ
 
 Open to: leading & developing high-performing teams, enterprise SaaS, AI infrastructure, developer tools, cloud platforms.
 
