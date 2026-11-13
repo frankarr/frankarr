@@ -10,7 +10,7 @@ Relocating to London (November 2026) and actively exploring senior roles: Develo
 
 🇬🇧 **[frankarr.link](https://frankarr.link)**
 
----
+----
 
 ## 🎯 What I'm Looking For
 
@@ -41,8 +41,8 @@ Open to: leading & developing high-performing teams, enterprise SaaS, AI infrast
 |--------|--------|
 | 2018–2024 | **Amazon Web Services** — SA Manager ANZ, Head of SAs Territory ANZ, Head of CSC SA APJ, Head of Early Career SAs APJ |
 | 2014–2018 | **Telstra** — API Strategy, CTOi Innovation Team, muru-D mentor |
-| 1991–2014 | **Microsoft** — Australia, Redmond WA, ninemsn, Windows Digital Media APAC, Technical Evangelism Sydney, Seattle, Melbourne |
-| 1984–1991 | **Aspect Computing** — Mainframe, Mini, PC era |
+| 1991–2014 | **Microsoft** — Canberra Australia, Redmond WA, ninemsn, Windows Digital Media APAC, Technical Evangelism Sydney, Seattle, Melbourne |
+| 1984–1991 | **Aspect Computing** — Mainframe, Mini, PC |
 
 ---
 
@@ -75,5 +75,4 @@ Open to: leading & developing high-performing teams, enterprise SaaS, AI infrast
 
 ---
 
-*Dad. Husband. 😀 St Kilda FC member for 40+ years (blindly optimistic) 😇❤️🤍🖤 Data's grandpappy 🐕 
-Soon 🇦🇺🛫🛬🇬🇧*
+*Dad. Husband. 😀 St Kilda FC member for 40+ years (blindly optimistic) 😇❤️🤍🖤 Data's grandpappy 🐕 Soon 🇦🇺🛫🛬🇬🇧*
