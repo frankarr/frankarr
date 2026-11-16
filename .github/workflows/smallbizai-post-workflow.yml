@@ -16,13 +16,15 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Fetch latest SmallBizAI post
+        id: fetch
         run: |
           python3 - <<'EOF'
           import urllib.request
           import xml.etree.ElementTree as ET
 
           url = "https://smallbizai.au/feed/"
-          with urllib.request.urlopen(url) as response:
+          req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0 (compatible; GitHub-Actions-Bot/1.0)'})
+          with urllib.request.urlopen(req) as response:
               tree = ET.parse(response)
 
           root = tree.getroot()
