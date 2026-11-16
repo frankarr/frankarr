@@ -25,7 +25,7 @@ Open to: leading & developing high-performing teams, enterprise SaaS, AI infrast
 ## 🧠 Currently thinking about
 
 <!-- SMALLBIZAI:START -->
-- [Survey Says AI Is Everywhere. Bank Data Says 5.7%. Which One Do You Believe?](https://smallbizai.au/survey-says-ai-is-everywhere-bank-data-says-5-7-which-one-do-you-believe/)
+- [The Data Is In: Small Businesses Using AI Are More Optimistic About Hiring and Growth](https://smallbizai.au/the-data-is-in-small-businesses-using-ai-are-more-optimistic-about-hiring-and-growth/)
 <!-- SMALLBIZAI:END -->
 
 ---
