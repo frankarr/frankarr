@@ -2,6 +2,8 @@
 
 **40+ years in tech. Still building.**
 
+From mainframes at Aspect Computing to developer evangelism at Microsoft, API strategy and developer relations at Telstra, startup mentoring at muru-D, and leading solution architecture teams at AWS - I've spent my career at the intersection of software, people, and ideas.
+
 🇬🇧 **Arriving London 26 November 2026** — actively exploring senior roles in Developer Relations, Solutions Engineering, AI Product & Strategy, and Technical Leadership. UK, Europe, remote-global.
 
 > I'm currently running a fully automated, multi-agent AI publishing operation — 1,600+ articles, a 6-agent team, and a live content pipeline. That's AI Product & Strategy in practice, not on a slide.
@@ -57,7 +59,7 @@ Open to: leading & developing high-performing teams, enterprise SaaS, AI infrast
 - [I asked a side hustle bot to build me a business.](https://frankarr.com/2026/11/02/i-asked-a-side-hustle-bot-to-build-me-a-business/)
 - [Seven attempts, zero deliveries: my week with Dragonfly Shipping](https://frankarr.com/2026/10/22/seven-attempts-zero-deliveries-my-week-with-dragonfly-shipping/)
 - [Hello Cloudflare!](https://frankarr.com/2026/10/22/hello-cloudflare/)
-- [The Agents I’m Using Right Now &lpar;Part 1: Setup &amp; Early Results&rpar;](https://frankarr.com/2026/10/12/the-agents-im-using-right-now-part-1-setup-early-results/)
+- [The Agents I'm Using Right Now (Part 1: Setup & Early Results)](https://frankarr.com/2026/10/12/the-agents-im-using-right-now-part-1-setup-early-results/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
