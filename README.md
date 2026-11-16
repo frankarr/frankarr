@@ -57,7 +57,7 @@ Open to: leading & developing high-performing teams, enterprise SaaS, AI infrast
 - [I asked a side hustle bot to build me a business.](https://frankarr.com/2026/11/02/i-asked-a-side-hustle-bot-to-build-me-a-business/)
 - [Seven attempts, zero deliveries: my week with Dragonfly Shipping](https://frankarr.com/2026/10/22/seven-attempts-zero-deliveries-my-week-with-dragonfly-shipping/)
 - [Hello Cloudflare!](https://frankarr.com/2026/10/22/hello-cloudflare/)
-- [The Agents I'm Using Right Now (Part 1: Setup & Early Results)](https://frankarr.com/2026/10/12/the-agents-im-using-right-now-part-1-setup-early-results/)
+- [The Agents I’m Using Right Now &lpar;Part 1: Setup &amp; Early Results&rpar;](https://frankarr.com/2026/10/12/the-agents-im-using-right-now-part-1-setup-early-results/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
