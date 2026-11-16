@@ -1,0 +1,58 @@
+name: Latest SmallBizAI post workflow
+on:
+  schedule:
+    - cron: '30 0 * * *' # Runs daily at 00:30 UTC (offset from blog post action)
+  workflow_dispatch: # Lets you run it manually any time
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-smallbizai:
+    name: Update README with latest SmallBizAI post
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch latest SmallBizAI post
+        run: |
+          python3 - <<'EOF'
+          import urllib.request
+          import xml.etree.ElementTree as ET
+
+          url = "https://smallbizai.au/feed/"
+          with urllib.request.urlopen(url) as response:
+              tree = ET.parse(response)
+
+          root = tree.getroot()
+          item = root.findall('./channel/item')[0]
+          title = item.find('title').text.strip()
+          link = item.find('link').text.strip()
+
+          line = f"- [{title}]({link})"
+
+          with open("README.md", "r") as f:
+              content = f.read()
+
+          start_marker = "<!-- SMALLBIZAI:START -->"
+          end_marker = "<!-- SMALLBIZAI:END -->"
+
+          before = content.split(start_marker)[0]
+          after = content.split(end_marker)[1]
+
+          new_content = before + start_marker + "\n" + line + "\n" + end_marker + after
+
+          with open("README.md", "w") as f:
+              f.write(new_content)
+
+          print(f"Updated with: {title}")
+          EOF
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git add README.md
+          git diff --staged --quiet || git commit -m "Update SmallBizAI thinking-about post"
+          git push
