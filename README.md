@@ -25,7 +25,7 @@ Open to: leading & developing high-performing teams, enterprise SaaS, AI infrast
 ## 🧠 Currently thinking about
 
 <!-- SMALLBIZAI:START -->
-- [The Data Is In: Small Businesses Using AI Are More Optimistic About Hiring and Growth](https://smallbizai.au/the-data-is-in-small-businesses-using-ai-are-more-optimistic-about-hiring-and-growth/)
+- [AI Agents Are Going Rogue — And Nobody Has a Plan to Stop Them](https://smallbizai.au/ai-agents-going-rogue/)
 <!-- SMALLBIZAI:END -->
 
 ---
