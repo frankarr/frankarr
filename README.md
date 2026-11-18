@@ -25,7 +25,7 @@ Open to: leading & developing high-performing teams, enterprise SaaS, AI infrast
 ## 🧠 Currently thinking about
 
 <!-- SMALLBIZAI:START -->
-- [AI Scribes Are Saving Allied Health Clinics Hours Every Week — But There Are Legal Strings Attached](https://smallbizai.au/ai-scribes-are-saving-allied-health-clinics-hours-every-week-but-there-are-legal-strings-attached/)
+- [Meta Muse is now live in Australia — here’s what small business owners need to know](https://smallbizai.au/meta-muse-is-now-live-in-australia-heres-what-small-business-owners-need-to-know/)
 <!-- SMALLBIZAI:END -->
 
 ---
