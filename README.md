@@ -25,7 +25,7 @@ Open to: leading & developing high-performing teams, enterprise SaaS, AI infrast
 ## 🧠 Currently thinking about
 
 <!-- SMALLBIZAI:START -->
-- [AI Agents Are Going Rogue — And Nobody Has a Plan to Stop Them](https://smallbizai.au/ai-agents-going-rogue/)
+- [AI Scribes Are Saving Allied Health Clinics Hours Every Week — But There Are Legal Strings Attached](https://smallbizai.au/ai-scribes-are-saving-allied-health-clinics-hours-every-week-but-there-are-legal-strings-attached/)
 <!-- SMALLBIZAI:END -->
 
 ---
