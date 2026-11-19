@@ -38,6 +38,7 @@ Open to: leading & developing high-performing teams, enterprise SaaS, AI infrast
 - **[mathmaties](https://github.com/frankarr/mathmaties)** — iOS & Android app for kids learning maths with NFC-tagged physical number tokens
 - **[devevangelist](https://github.com/frankarr/devevangelist)** — Resources from my developer evangelism days
 - **[frankarr-wiki](https://github.com/frankarr/frankarr-wiki)** — Historical blog pages hosted on Cloudflare Pages
+- **[Starboy Reference Guide](https://starboy.frankarr.com)** — The definitive reference guide for Starboy, the wearable digital pet by LilGuy. Gestures, eye variants, battery tips, and owner findings.
 
 ---
 
