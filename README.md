@@ -25,7 +25,7 @@ Open to: leading & developing high-performing teams, enterprise SaaS, AI infrast
 ## 🧠 Currently thinking about
 
 <!-- SMALLBIZAI:START -->
-- [The workers most likely to be replaced by AI are the ones using it most](https://smallbizai.au/the-workers-most-likely-to-be-replaced-by-ai-are-the-ones-using-it-most/)
+- [Gartner: 1 in 4 Australian workers fear AI will make them obsolete — and they’re probably right to worry](https://smallbizai.au/gartner-1-in-4-australian-workers-fear-ai-will-make-them-obsolete-and-theyre-probably-right-to-worry/)
 <!-- SMALLBIZAI:END -->
 
 ---
