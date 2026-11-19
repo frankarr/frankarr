@@ -25,7 +25,7 @@ Open to: leading & developing high-performing teams, enterprise SaaS, AI infrast
 ## 🧠 Currently thinking about
 
 <!-- SMALLBIZAI:START -->
-- [Meta Muse is now live in Australia — here’s what small business owners need to know](https://smallbizai.au/meta-muse-is-now-live-in-australia-heres-what-small-business-owners-need-to-know/)
+- [The workers most likely to be replaced by AI are the ones using it most](https://smallbizai.au/the-workers-most-likely-to-be-replaced-by-ai-are-the-ones-using-it-most/)
 <!-- SMALLBIZAI:END -->
 
 ---
