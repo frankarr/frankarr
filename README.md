@@ -25,7 +25,7 @@ Open to: leading & developing high-performing teams, enterprise SaaS, AI infrast
 ## 🧠 Currently thinking about
 
 <!-- SMALLBIZAI:START -->
-- [Australian AI Weekly: 16-20 November 2026](https://smallbizai.au/australian-ai-weekly-20-november-2026/)
+- [Your AI skills are atrophying — here’s how to stop it (before your boss notices)](https://smallbizai.au/your-ai-skills-are-atrophying-heres-how-to-stop-it-before-your-boss-notices/)
 <!-- SMALLBIZAI:END -->
 
 ---
