@@ -25,7 +25,7 @@ Open to: leading & developing high-performing teams, enterprise SaaS, AI infrast
 ## 🧠 Currently thinking about
 
 <!-- SMALLBIZAI:START -->
-- [Gartner: 1 in 4 Australian workers fear AI will make them obsolete — and they’re probably right to worry](https://smallbizai.au/gartner-1-in-4-australian-workers-fear-ai-will-make-them-obsolete-and-theyre-probably-right-to-worry/)
+- [Australian AI Weekly: 16-20 November 2026](https://smallbizai.au/australian-ai-weekly-20-november-2026/)
 <!-- SMALLBIZAI:END -->
 
 ---
