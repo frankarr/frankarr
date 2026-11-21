@@ -25,7 +25,7 @@ Open to: leading & developing high-performing teams, enterprise SaaS, AI infrast
 ## 🧠 Currently thinking about
 
 <!-- SMALLBIZAI:START -->
-- [Your AI skills are atrophying — here’s how to stop it (before your boss notices)](https://smallbizai.au/your-ai-skills-are-atrophying-heres-how-to-stop-it-before-your-boss-notices/)
+- [Two Million Australian Small Businesses Are Flying Blind on Cyber Risk](https://smallbizai.au/australian-smes-cyber-risk-cgu-research-2026/)
 <!-- SMALLBIZAI:END -->
 
 ---
