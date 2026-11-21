@@ -25,7 +25,7 @@ Open to: leading & developing high-performing teams, enterprise SaaS, AI infrast
 ## 🧠 Currently thinking about
 
 <!-- SMALLBIZAI:START -->
-- [Two Million Australian Small Businesses Are Flying Blind on Cyber Risk](https://smallbizai.au/australian-smes-cyber-risk-cgu-research-2026/)
+- [The OpenAI Medicare Hack Has a Final Score: 18 Recommendations, Zero Excuses](https://smallbizai.au/the-openai-medicare-hack-has-a-final-score-18-recommendations-zero-excuses/)
 <!-- SMALLBIZAI:END -->
 
 ---
