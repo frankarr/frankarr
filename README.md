@@ -25,7 +25,7 @@ Open to: leading & developing high-performing teams, enterprise SaaS, AI infrast
 ## 🧠 Currently thinking about
 
 <!-- SMALLBIZAI:START -->
-- [The OpenAI Medicare Hack Has a Final Score: 18 Recommendations, Zero Excuses](https://smallbizai.au/the-openai-medicare-hack-has-a-final-score-18-recommendations-zero-excuses/)
+- [Affinda: The Melbourne AI Company Taking On the World](https://smallbizai.au/affinda-melbourne-ai-company-australia/)
 <!-- SMALLBIZAI:END -->
 
 ---
