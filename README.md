@@ -6,7 +6,7 @@ From mainframes at Aspect Computing to developer evangelism at Microsoft, API st
 
 🇬🇧 **Arriving London 27 November 2026** — actively exploring senior roles in Developer Relations, Solutions Engineering, AI Product & Strategy, and Technical Leadership. UK, Europe, remote-global.
 
-> I'm currently running a fully automated, multi-agent AI publishing operation — 1,600+ articles, a 6-agent team, and a live content pipeline. That's AI Product & Strategy in practice, not on a slide.
+> I'm currently running a fully automated, multi-agent AI publishing operation — 1,700+ articles, a 6-agent team, and a live content pipeline. That's AI Product & Strategy in practice, not on a slide.
 
 **[Get in touch → frankarr.link](https://frankarr.link)**
 
