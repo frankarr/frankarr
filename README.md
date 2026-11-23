@@ -25,7 +25,7 @@ Open to: leading & developing high-performing teams, enterprise SaaS, AI infrast
 ## 🧠 Currently thinking about
 
 <!-- SMALLBIZAI:START -->
-- [Affinda: The Melbourne AI Company Taking On the World](https://smallbizai.au/affinda-melbourne-ai-company-australia/)
+- [AI Found a Zero-Day in 11 Minutes. Here’s What Small Businesses Need to Know.](https://smallbizai.au/ai-found-a-zero-day-in-11-minutes-heres-what-small-businesses-need-to-know/)
 <!-- SMALLBIZAI:END -->
 
 ---
