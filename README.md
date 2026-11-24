@@ -4,7 +4,7 @@
 
 From mainframes at Aspect Computing to developer evangelism at Microsoft, API strategy and developer relations at Telstra, startup mentoring at muru-D, and leading solution architecture teams at AWS - I've spent my career at the intersection of software, people, and ideas.
 
-🇬🇧 **Arriving London 27 November 2026** — actively exploring senior roles in Developer Relations, Solutions Engineering, AI Product & Strategy, and Technical Leadership. UK, Europe, remote-global.
+🇬🇧 **Arriving London late November 2026** — actively exploring senior roles in Developer Relations, Solutions Engineering, AI Product & Strategy, and Technical Leadership. UK, Europe, remote-global.
 
 > I'm currently running a fully automated, multi-agent AI publishing operation — 1,700+ articles, a 6-agent team, and a live content pipeline. That's AI Product & Strategy in practice, not on a slide.
 
