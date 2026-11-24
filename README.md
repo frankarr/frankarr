@@ -25,7 +25,7 @@ Open to: leading & developing high-performing teams, enterprise SaaS, AI infrast
 ## 🧠 Currently thinking about
 
 <!-- SMALLBIZAI:START -->
-- [AI Found a Zero-Day in 11 Minutes. Here’s What Small Businesses Need to Know.](https://smallbizai.au/ai-found-a-zero-day-in-11-minutes-heres-what-small-businesses-need-to-know/)
+- [AirTrunk, NEXTDC, and the $24 Billion Sale: Who Actually Owns Australia’s Cloud Infrastructure?](https://smallbizai.au/airtrunk-nextdc-australia-cloud-infrastructure-owners/)
 <!-- SMALLBIZAI:END -->
 
 ---
