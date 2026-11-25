@@ -25,7 +25,7 @@ Open to: leading & developing high-performing teams, enterprise SaaS, AI infrast
 ## 🧠 Currently thinking about
 
 <!-- SMALLBIZAI:START -->
-- [Build Your Own Prompt Library from Chats That Worked](https://smallbizai.au/build-your-own-prompt-library-from-chats-that-worked/)
+- [AI Just Made These Six Holiday Scams Way More Dangerous for Small Businesses](https://smallbizai.au/ai-just-made-these-six-holiday-scams-way-more-dangerous-for-small-businesses/)
 <!-- SMALLBIZAI:END -->
 
 ---
