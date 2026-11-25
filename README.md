@@ -25,7 +25,7 @@ Open to: leading & developing high-performing teams, enterprise SaaS, AI infrast
 ## 🧠 Currently thinking about
 
 <!-- SMALLBIZAI:START -->
-- [AirTrunk, NEXTDC, and the $24 Billion Sale: Who Actually Owns Australia’s Cloud Infrastructure?](https://smallbizai.au/airtrunk-nextdc-australia-cloud-infrastructure-owners/)
+- [Build Your Own Prompt Library from Chats That Worked](https://smallbizai.au/build-your-own-prompt-library-from-chats-that-worked/)
 <!-- SMALLBIZAI:END -->
 
 ---
