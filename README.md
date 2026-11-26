@@ -25,7 +25,7 @@ Open to: leading & developing high-performing teams, enterprise SaaS, AI infrast
 ## 🧠 Currently thinking about
 
 <!-- SMALLBIZAI:START -->
-- [AI Just Made These Six Holiday Scams Way More Dangerous for Small Businesses](https://smallbizai.au/ai-just-made-these-six-holiday-scams-way-more-dangerous-for-small-businesses/)
+- [Your First Hire and Your AI: What to Share, What to Keep Private, and When to Move to a Team Plan](https://smallbizai.au/your-first-hire-and-your-ai-what-to-share-what-to-keep-private-and-when-to-move-to-a-team-plan/)
 <!-- SMALLBIZAI:END -->
 
 ---
