@@ -25,7 +25,7 @@ Open to: leading & developing high-performing teams, enterprise SaaS, AI infrast
 ## 🧠 Currently thinking about
 
 <!-- SMALLBIZAI:START -->
-- [Your First Hire and Your AI: What to Share, What to Keep Private, and When to Move to a Team Plan](https://smallbizai.au/your-first-hire-and-your-ai-what-to-share-what-to-keep-private-and-when-to-move-to-a-team-plan/)
+- [CREW25: Sydney-Built AI Job Management for Australian Trades Businesses](https://smallbizai.au/crew25-sydney-built-ai-job-management-for-australian-trades-businesses/)
 <!-- SMALLBIZAI:END -->
 
 ---
