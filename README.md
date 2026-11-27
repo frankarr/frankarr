@@ -56,11 +56,11 @@ Open to: leading & developing high-performing teams, enterprise SaaS, AI infrast
 ## ✔️ Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MEL✈️AUH✈️CDG🚘🚇🚘LON](https://frankarr.com/2026/11/27/mel%e2%9c%88%ef%b8%8fauh%e2%9c%88%ef%b8%8fcdg%f0%9f%9a%98%f0%9f%9a%87%f0%9f%9a%98lon/)
 - [My own Lilguy – My Starboy Experience: Battery Life, Charging Issues &amp; What I Learned](https://frankarr.com/2026/11/19/my-own-lilguy/)
 - [The October Performance Review: Any Improvements?](https://frankarr.com/2026/11/15/the-october-performance-review-any-improvements/)
 - [I asked a side hustle bot to build me a business.](https://frankarr.com/2026/11/02/i-asked-a-side-hustle-bot-to-build-me-a-business/)
 - [Seven attempts, zero deliveries: my week with Dragonfly Shipping](https://frankarr.com/2026/10/22/seven-attempts-zero-deliveries-my-week-with-dragonfly-shipping/)
-- [Hello Cloudflare!](https://frankarr.com/2026/10/22/hello-cloudflare/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
