@@ -25,7 +25,7 @@ Open to: leading & developing high-performing teams, enterprise SaaS, AI infrast
 ## 🧠 Currently thinking about
 
 <!-- SMALLBIZAI:START -->
-- [CREW25: Sydney-Built AI Job Management for Australian Trades Businesses](https://smallbizai.au/crew25-sydney-built-ai-job-management-for-australian-trades-businesses/)
+- [The Zero-Human Company Is Illegal in Australia. Here’s What That Actually Means.](https://smallbizai.au/the-zero-human-company-is-illegal-in-australia-heres-what-that-actually-means/)
 <!-- SMALLBIZAI:END -->
 
 ---
