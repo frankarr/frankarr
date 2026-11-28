@@ -2,7 +2,7 @@
 
 **40+ years in tech. Still building. 🏗️ 🧑‍💻**
 
-From mainframes & minis at Aspect Computing in the 80s to developer evangelism at Microsoft, API strategy and developer relations at Telstra, startup mentoring at muru-D, and leading solution architecture teams at AWS - I've spent my career at the intersection of software, people, and ideas.
+From mainframes & minis at Aspect Computing in the 80s, to developer evangelism at Microsoft, API strategy & developer relations at Telstra, startup mentoring at muru-D, and leading solution architecture teams at AWS - I've spent my career at the intersection of software, people, and ideas.
 
 🇬🇧 **In London November 2026** — actively exploring senior roles in Developer Relations, Solutions Engineering, AI Product & Strategy, and Technical Leadership. UK, Europe, remote-global.
 
